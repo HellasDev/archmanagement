@@ -53,7 +53,7 @@
 # Εκτέλεση
 1. Κλωνοποιήστε το repository: git clone `https://github.com/HellasDev/system-management.git`
 2. Μεταβείτε στον κατάλογο του repository:  `cd system-management`
-3. Δώστε δικαιώματα εκτέλεσης στο script:  `chmod +x system_management.sh`
-4. Εκτελέστε το script:  `./system_management.sh`
+3. Δώστε δικαιώματα εκτέλεσης στα scripts με την εντολή: `chmod +x  ********.sh.`
+4. Εκτελέστε το script:  `./********.sh`
 
 ## Καλή χρήση!!
